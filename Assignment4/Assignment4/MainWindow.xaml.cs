@@ -153,7 +153,7 @@ namespace Assignment4
             Environment.Exit(0);
         }
 
-        string videoURL = @"C:\Users\markk\OneDrive\VCC\Winter2023\CSTP1302\Assignment4\Assignment4\Video\file_example_MP4_480_1_5MG.mp4";
+        string videoURL = @"C:\Users\000447172\OneDrive\VCC\Winter2023\CSTP1302\CSTP1302\Assignment4\Assignment4\Video\file_example_MP4_480_1_5MG.mp4";
         
         private void window_loaded(object sender, RoutedEventArgs e)
         {
